@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sjj-blog</title>
-    <link>https://blog.sjj2020.com/</link>
-    <description>Recent content on sjj-blog</description>
+    <title>Posts on sjj-blog</title>
+    <link>https://blog.sjj2020.com/post/</link>
+    <description>Recent content in Posts on sjj-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Nov 2022 02:01:49 +0800</lastBuildDate><atom:link href="https://blog.sjj2020.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 02:01:49 +0800</lastBuildDate><atom:link href="https://blog.sjj2020.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数据分析与智能计算00:intro&amp;在Windows10/11上安装anaconda 视频文字稿</title>
       <link>https://blog.sjj2020.com/post/datasci00/</link>
