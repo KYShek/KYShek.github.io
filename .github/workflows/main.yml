@@ -15,15 +15,15 @@ jobs:
           fetch-depth: 0
 
       # 配置 Hugo 环境
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: latest
-          extended: true
+      #- name: Setup Hugo
+      #  uses: peaceiris/actions-hugo@v2
+      #  with:
+      #    hugo-version: latest
+      #    extended: true
 
       # 构建 Hugo 静态页面
-      - name: Build
-        run: hugo --minify
+      #- name: Build
+      #  run: hugo --minify
 
       # 将静态页面部署至 ECS
       - name: Deploy to ECS
